@@ -1,0 +1,166 @@
+POST /send.php HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://www.sendanonymousemail.net/
+Accept-Language: en-us
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.sendanonymousemail.net
+Content-Length: 275
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: PHPSESSID=762adba03236142ccec305f6a20aaffa
+
+email=lilytuckrige@yahoo.com&sender=the_whole_world_is_watching@nitroba.org&subject=Your+class+stinks&message=Why+do+you+persist+in+teaching+a+boring+class%3F%0D%0A%0D%0AWe+don%27t+like+it.%0D%0A%0D%0AWe+don%27t+like+you.%0D%0A%0D%0A&security_code=xkpmkb&submit=+++SEND%21+++
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 07:23:08 GMT
+Server: Apache/1.3.37 (Unix) PHP/4.4.4 with Suhosin-Patch
+X-Powered-By: PHP/4.4.4
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+<html>
+<head>
+<title>Send Anonymous Email</title>
+<link href=style.css rel=stylesheet type=text/css>
+</head>
+<body>
+<table width=760 border=0 align=center cellpadding=0 cellspacing=0 bgcolor=#FFFFFF>
+  <tr>
+    <td><div align=center><br>
+      <img src=images/logo.gif alt=Anonymous eCards width=300 height=50><br>
+        <br>
+        
+              <center>
+        
+      <script type="text/javascript"><!--
+google_ad_client = "pub-5181998329895443";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+      
+      </center>
+        
+          <br>
+          <table width=760 border=0 cellspacing=0 cellpadding=0>
+            <tr>
+              <td width=50% valign=top><div align=center><strong>Thank You<br>
+                <br>
+                Your
+              message has been sent! </strong><br>
+              <br>
+              <br>
+              <a href="http://www.prockster.com" target="_blank">Access blocked sites or browse anonymously from work or school </a><br>
+              <br>
+              <a href=index.php>Send some Anonymous Fake eCards</a><a href=http://www.sendanonymousemail.net>? </a><br>
+              <br>
+              <br>
+</div></td>
+            </tr>
+          </table>
+      <br>
+          <br>
+                <center>
+        
+      <script type="text/javascript"><!--
+google_ad_client = "pub-5181998329895443";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+      
+      </center>
+      
+      <br>
+      <br>
+    <p align="center"><font size=-2>Send Anonymous Mail - &#169; 2005 <SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript">
+<!--// obligatory comment...  8-} 
+var today = new Date();
+var year = today.getYear(); 
+year += (year < 1900) ? 1900 : 0 
+document.write(' - ' + year)
+// -->
+</SCRIPT></font></p></td>
+  </tr>
+</table>
+<center>
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=2134460; 
+var sc_invisible=1; 
+var sc_partition=19; 
+var sc_security="09e40351"; 
+</script>
+
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  
+src="http://c20.statcounter.com/counter.php?sc_project=2134460&amp;java=0&amp;security=09e40351&amp;invisible=1" alt="hitcounter" border="0"></a> </noscript>
+<!-- End of StatCounter Code -->
+
+</body>
+</html>
+
+
+
+
+GET /CaptchaSecurityImages.php?width=100&height=40&character=5 HTTP/1.1
+Accept: */*
+Referer: http://www.sendanonymousemail.net/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.sendanonymousemail.net
+Connection: Keep-Alive
+Cookie: PHPSESSID=762adba03236142ccec305f6a20aaffa
+
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 07:23:16 GMT
+Server: Apache/1.3.37 (Unix) PHP/4.4.4 with Suhosin-Patch
+X-Powered-By: PHP/4.4.4
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Keep-Alive: timeout=15, max=99
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: image/jpeg
+
+......JFIF.............>CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), default quality
+...C...........		.
+..
+................. $.' ",#..(7),01444.'9=82<.342...C.			....
+
+.2!.!22222222222222222222222222222222222222222222222222......(.d..".....................................	
+.....................}........!1A..Qa."q.2....#B...R..$3br.	
+.....%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz.......................................................................................................	
+.....................w.......!1..AQ.aq."2...B....	#3R..br.
+.$4.%.....&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz....................................................................................?....-Z.,.K..,....F... .M..;..7gx!.Fsoc.mWQ..o.].P-.....;LCn.y.K#.vr..5...(-.....MI..w".B.e.\.x2.\.7d.2x............\I...t......n.0.W.g,.v..U;7...5.[.e....;kt..2.......NB!N...
++...Q].....6.ld2?.".1$;.FdW....]......+..	,..+l...u..y#;I.23.
+N'.!88.k.K.zMF.......\.i.....D..	...T...`..8....N.&..5...Z...r...7....0.C...U
+.... .......Cu..8,-.."hdP.D..dN$`.W...F..X..T.xoI)w}qr...kc+!I	B..R..0,3.m.!....<-uk....0.o...[*...I.g......n.l.T%Kq....u	..SxI..{.....H..w..#..$..3......=bX#..H.
+d-.\.."..m-.B.N_*B...0x/.:...&..d..[*:...q	...F..`.....Rz....Vrx~...T...IRh.2..H........[$...x5........7.k_.......Ig....V{...G1?.Y....8.......nu....V.8i...wC......%...\.........._H....#.B..g,.#,..6
+.......
+r....)...7.LL`.U.u.F..#...X.v.~Pw9..]^.}..VZIL....RK!ky...yR$..9,.7.C..S....	o..|...d.hb.......0.s.E...n....9&Ce.....v....).../....".w *0d....
+...i....D.b....;U...l.....	$.......k..._p.....G8..=:.{kp.I..A%U..U.N.<eG.l...4
+SV..w.]...G.t.cL.E...../....3..../...w..|...|G6...;
+&...nL...J..3..]s.q...nN.y.....o.x....nm....._...*.-.6.9Pp3..WA.[F3.o...	...G.....g.......p..^y;......	..Z.cef.n..0.Wr.L(.........s.5..^..'...-....$Y[..gu...m.])fR.6..w.y....u-BI<......v(b
+q...I.<Dx..~....[...q.Or|..&.4.+K...5........IQ^k........RC+.	...$.."9`..q*.t....%._..[...~../.i.n...E..P...........y...............W.]I=....!......X..F.7m.. 3..I.#E..]...%.m......%.>[...i.#..P......e./.x".......&...7....q...H.8.PrL..Uo....{Ry..{.......C..}.#......>.+G....4.#N.#."...\C.H.............<.h.....
+........#&....>. .8.bH...%.u.........$.{...r>b..Q.....~.9...n....A.......s3N"v......X.........'<?Z.....Qx._9.....cX...-.
+..N....".|E......2...2E..6.."............Mk^./4..
+..d........./r..+.I.G\..4.I..x.Y.V.......#.(...`2.+.C.A...1..j1.Y.kVR..R.y.1ar..<....'.....g....?.6s....c/..g.].w.....pp..S'...o....o6C.+..6>CD2Tq.h9.o~.............=..^.N.to-......zNH...p..O...y.t.?.MR.<.....I...XKu..c.c )..O<g.
++.r......6......j	4......&.e.J7./k....9..(8S.T.....-....[.p--g\.0. ..!.nweX..v...>..R..<.i../mi4z...........j......8..
+........I.K.c.Gmn..iX...Y.8P......I...+v........e4..&...k.f[X.D.K.....~........Pq.p9...h......4..)..O>gK..U;T..l.......r......mJ......:...WA..=.FuY.XK)..'.X..H\.F.D.18.!....Q7w..5..,......d@6..rQ...3..%.r.w.V8..~....7M]6....M$.*.b.........km.8..k...b....{...../1D...we..'...f...;...(.r.L9Re.xD..:{L..O"6bO....O.Sp@..Q.....WR........>.+.....A<a.;`.eR...F..w.d....V......r.z.......c.c..en.....Pr......E.WD*IE$C....
